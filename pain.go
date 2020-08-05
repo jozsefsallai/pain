@@ -3,5 +3,5 @@ package pain
 import "fmt"
 
 func Hello() {
-	fmt.Println("Hello from v1!")
+	fmt.Println("Hello from v2!")
 }
